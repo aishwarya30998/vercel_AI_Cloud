@@ -9,6 +9,8 @@
 - Use clerk for user authentication and login
 - Add supscription tiers and billing with Clerk payment gateway or stripe for payment processing
 - Deploys seamlessly to production
+
+
 ----- In the same SaaS folder replaces the Bussiness idea generator code with healthcare application usecase
 - A healthcare application that:
 - Takes doctor's consultation notes as input
