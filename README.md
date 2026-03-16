@@ -8,7 +8,7 @@
 - Renders beautiful Markdown content
 - Use clerk for user authentication and login
 - Add supscription tiers and billing with Clerk payment gateway or stripe for payment processing
-- Deploys seamlessly to production
+- Deploys seamlessly to production in vercel
 ----- In the same SaaS folder replaces the Bussiness idea generator code with healthcare application usecase
 - A healthcare application that:
 - Takes doctor's consultation notes as input
@@ -21,7 +21,13 @@
 Hurray!!!! - Healthcare Consultation Assistant Delopyed on Vercel 
 Try it yourself   - https://saas-970tzh7qj-aishwaryas-projects-e5dddcfa.vercel.app/
 
+3. Saas_AWS  folder
 ---- Move Healthcare Consultation Assistant from Vercel and deploy it to AWS using Docker containers and App Runner.
+Used ECR to push docker container to it and store the container repository
+used IAM policies and users to assign roles
+Used AWS APP Runner to delopy and host the applicaion
+used cloudwatch logs to monitor
+
 
 
 
